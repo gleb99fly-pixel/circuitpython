@@ -1,5 +1,8 @@
 USB_VID = 0x2E8A
 USB_PID = 0x101F
+
+USB_INTERFACE_NAME = "AGracing KeyPad 20"
+
 USB_PRODUCT = "Keypad 20"
 USB_MANUFACTURER = "AGracing"
 
